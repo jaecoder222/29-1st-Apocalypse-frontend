@@ -22,10 +22,9 @@
 
 ## 구현 영상
 
-
-29기 홍지은  6:18 PM
-혹시 개인 README에 썸네일 넣고 싶으신 분들은
 [![프로젝트 구현 영상 링크](https://img.youtube.com/vi/rbnuJMyuUyM/sddefault.jpg)](https://www.youtube.com/watch?v=rbnuJMyuUyM)
+
+![3E9517B0-41A8-4B7D-9087-C9499DBDFEE0_1_105_c](https://user-images.githubusercontent.com/82952382/153756823-7dc5d4b4-72b9-47bd-ac51-fac835db53c7.jpeg)
 
 
 ## 구현 기능
